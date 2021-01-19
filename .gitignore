@@ -29,3 +29,6 @@ yarn-error.log*
 # env
 env.yml
 .env
+
+# config
+src/config.js
